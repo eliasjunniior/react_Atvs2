@@ -6,7 +6,7 @@ const Encontreme = () => {
     <body>
       <h1>Encontre-me</h1>
       <p>
-      Email: bmfmlucas@gmail.com || <a href="https://www.facebook.com/">Facebook: Lucas Nascimento</a>
+      Email: elias.pereira.adm@outlook.com || <a href="https://www.linkedin.com/in/elias-pereira-350519184/">Linkedin: Elias Pereira</a>
       </p>
     </body>
   </html>

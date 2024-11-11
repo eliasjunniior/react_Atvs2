@@ -8,10 +8,20 @@ function MinhaRotina() {
       </head>
       <body>
         <h1>Minha Rotina Diária</h1>
-        <h2><strong>Lucas Bomfim do Nascimento</strong></h2>
+        <h2><strong>Elias Pereira da Silva Junior</strong></h2>
         <img src="https://christianosantos.com/files/cs1/avatar-homem.jpg" alt="" />
         <p>
-          Minha rotina diária começa cedo, normalmente com uma sessão de exercícios na academia para manter a saúde e energia ao longo do dia. Em seguida, eu trabalho no meu projeto de API em TypeScript com MongoDB, aprimorando minhas habilidades de programação. Durante a tarde, continuo estudando para me manter atualizado em novas tecnologias, especialmente no ambiente de <strong>AWS</strong>, que faz parte do meu foco atual. No final do dia, gosto de relaxar jogando jogos ou aprendendo algo novo.
+        Eu começo o meu dia por volta das 6h30 às 7h, organizando as tarefas em casa e verificando as atividades da minha loja online. Depois de tomar banho, escovar os dentes e tomar café da manhã, sigo para o trabalho, onde atuo como analista de marketing a partir das 8h.
+
+        No trabalho, gerencio as estratégias de marketing junto com a minha diretora. Às 12h, faço uma pausa para o almoço e retorno às 13h, continuando até as 17h48.
+
+        Ao sair do trabalho, faço um lanche e me dirijo à faculdade, onde tenho aulas das 18h30 às 22h. Durante os intervalos ao longo do dia, aproveito para gerenciar os pedidos da minha loja online.
+
+        Depois da faculdade, retorno para casa, tomo um banho, faço um lanche e me dedico aos meus projetos. Além disso, verifico os pedidos que chegaram na loja, faço a faturação e embalo os produtos. Geralmente, vou dormir por volta da 1h.
+
+      Nos finais de semana, dedico parte do meu tempo para ir à igreja e também para estar com meus amigos.
+
+
         </p>
         <video width="320" height="240" controls>
           <source src="https://www.w3schools.com/tags/movie.mp4" type="video/mp4" />

@@ -8,7 +8,7 @@ const Contato = () => {
       <body>
         <h1>Contato</h1>
         <p>
-        Você pode entrar em contato comigo através do meu número de telefone: 81983670589
+        Você pode entrar em contato comigo através do meu número de telefone: 81996973442
         </p>
       </body>
     </html>
